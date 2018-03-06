@@ -1,10 +1,7 @@
 {
-  "latestVersion": "1.1.2",
-  "latestVersionCode": "11",
-  "url": "https://play.google.com/store/apps/details?id=com.beeprod.sz",
-  "releaseNotes": [
-    "- Added change logs",
-    "- Added check for update",
-    "- Enhanced excluding app from recent"
-  ]
+  "versionCode":11,
+  "versionName":"1.1.2",
+  "content":"1.Added change logs#2.Added check for update#3.Enhanced excluding app from recent",//use # to wrap
+  "minSupport":1,	//min support version. while your app versionCode less than  minSupport,You must update app
+  "url":"apk download url"
 }
